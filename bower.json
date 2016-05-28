@@ -1,0 +1,13 @@
+{
+  "name": "oubs-live-player",
+  "description": "Video page for OUBS",
+  "version": "0.0.1",
+  "homepage": "oubs.fi",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0"
+  }
+}
